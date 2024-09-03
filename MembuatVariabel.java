@@ -14,7 +14,7 @@ public class MembuatVariabel {
         //bagaimana penamaan variabel yang baik
         //pastikan nama variabel kata benda
 
-        long showInfo;// kata kerja itu u/ method
+        long showInfo;// kata kerja = method
 
         //camelcase -> graceAlainEdlingerEunice
         //kebab-case
